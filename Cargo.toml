@@ -1,0 +1,12 @@
+[workspace]
+members = [
+    "init_crate",
+    "load_crate",
+    "security_crate",
+    "boot_core"
+]
+
+[profile.release]
+lto = true
+panic = "abort"
+
