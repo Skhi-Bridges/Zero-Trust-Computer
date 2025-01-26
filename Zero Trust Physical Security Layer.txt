@@ -1,0 +1,73 @@
+Physical Security Layer:
+
+Insulated DSL Line
+
+
+Creates physical isolation from network attacks
+Eliminates surface attacks through network cabling
+Provides clean signal path for data transmission
+
+
+Signal Management
+
+
+Signal filter to remove unwanted frequencies
+Amplifier to maintain strong, clean signal
+Grounding system to prevent electrical attacks
+
+
+Netgate 8200 Gateway
+
+
+Quantum-safe router/firewall/VPN capabilities
+8-core Intel Atom C3758R with QuickAssist for cryptographic operations
+Multiple high-speed ports for flexible network configuration
+Handles complex quantum-safe protocols at network edge
+
+
+Jetson Nano Secure Computing Core
+
+
+Housed in Faraday cage to block electromagnetic interference
+Battery powered instead of wall power supply
+
+Eliminates power analysis attacks
+Removes power line as attack surface
+Provides stable, clean power source
+
+
+Grounded to prevent electrical attacks
+Runs core game systems and security actors
+
+Software Security Layer:
+
+Rust Actor Security System
+
+
+Dynamic security monitoring and enforcement
+Real-time threat response
+Process isolation and management
+
+
+AO Integration
+
+
+Virtual VPN router running on AO
+Secure tunnel back to Jetson
+Distributed compute environment connection
+
+
+User Interface
+
+
+Leptos daemon-free browser interface
+Clean, secure game delivery system
+
+The battery power for the Jetson is a crucial addition that wasn't previously discussed. By removing the wall power supply, you eliminate:
+
+Power analysis attack vectors
+Electrical grid vulnerabilities
+Power supply noise that could leak information
+Dependencies on external power infrastructure
+
+This creates a truly isolated, secure computing environment when combined with the Faraday cage and grounding system.
