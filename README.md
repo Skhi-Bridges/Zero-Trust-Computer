@@ -6,7 +6,7 @@
 **An Act of Technological Exorcism**  
 *Eradicating hidden computation through radical transparency*
 
-## 🌍 Dissertation
+## 🌍 Problem
 > "Daemons are the original sin of computing - hidden processes manipulating reality without consent.  
 > This project implements Carl Sagan's imperative:  
 > *'Extraordinary claims require extraordinary proof'*  
