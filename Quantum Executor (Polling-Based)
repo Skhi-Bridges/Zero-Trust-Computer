@@ -1,32 +1,14 @@
-// Move actors to separate modules
-mod memory;
-mod compute;
-mod io;
-mod process;
-mod ipc;
-
-// Unified error handling
-mod error {
-    #[derive(Debug)]
-    pub enum KernelError {
-        MemoryError,
-        ComputeError,
-        IoError,
-        ProcessError,
-        IpcError,
-    }
+struct KernelExecutor {
+    memory_rx: Receiver<MemoryMsg>,
+    compute_rx: Receiver<ComputeMsg>,
+    // ... other channels
 }
 
-// Shared types
-mod types {
-    use serde::{Serialize, Deserialize};
-    
-    #[derive(Serialize, Deserialize, Clone)]
-    pub struct ProcessID(pub u32);
-    
-    #[derive(Serialize, Deserialize)]
-    pub struct QuantumMessage {
-        pub entanglement_hash: [u8; 32],
-        pub payload: Vec<u8>
+impl KernelExecutor {
+    fn poll(&mut self) {
+        while let Ok(msg) = self.memory_rx.try_recv() {
+            self.memory.handle(msg);
+        }
+        // Repeat for other components
     }
 }
