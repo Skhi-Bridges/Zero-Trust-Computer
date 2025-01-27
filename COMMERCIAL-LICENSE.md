@@ -59,8 +59,10 @@ Binding arbitration process
 8. CONTACT INFORMATION
 For licensing inquiries:
 Skhi Bridges LLC DAO
-Email: commercial-licensing@skhibridges.com
+Email: skhibridges@skhibridges.com
 Web: https://skhibridges.com
+SkhiBridges DAO: https://openfund.com/d/SkhiBridges
+
 
 Signed,
 
