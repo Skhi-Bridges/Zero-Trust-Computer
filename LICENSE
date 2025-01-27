@@ -1,43 +1,100 @@
-GNU AFFERO GENERAL PUBLIC LICENSE
-Version 3, 19 November 2007
+# GNU AFFERO GENERAL PUBLIC LICENSE
+## Version 3, Liberation-Based Open Source Edition
+### Copyright (C) 2025 Skhi Bridges LLC DAO
 
-Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
-Copyright (C) 2025 Robert Patrick Campbell (aka Skhi Bridges)
-Skhi Bridges LLC
+## Preamble
 
-This program is free software: you can redistribute it and/or modify it under
-the terms of the GNU Affero General Public License as published by the Free
-Software Foundation, either version 3 of the License, or (at your option) any
-later version.
+This software is released under the GNU Affero General Public License (AGPL) with additional terms designed to protect digital sovereignty, human rights, and open source innovation.
 
-This program is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+The core mission of this license is to:
+- Promote transparency in computing systems
+- Protect individual and collective digital rights
+- Prevent exploitation through technological mechanisms
+- Ensure fair and ethical software distribution
 
-DISCLAIMER: This is experimental software not intended for production use.  
-By using this software, you agree the author/entity bears no responsibility  
-for any damages or legal violations caused by its implementation.  
+## 0. DEFINITIONS
 
-You should have received a copy of the GNU Affero General Public License along
-with this program. If not, see <https://www.gnu.org/licenses/>.
+### Terminology
+- **"The Software"**: The computer program and associated materials released under this license.
+- **"Licensor"**: Skhi Bridges LLC DAO and its legal successors.
+- **"Commercial Use"**: Utilizing the software to generate direct financial revenue.
+- **"Gross Revenue"**: Total income generated before expenses and deductions.
+- **"Derivative Work"**: Any modification, enhancement, or extension of the original software.
+
+## 1. LICENSING PATHS
+
+### 1.1 Open Source Path (Standard AGPL v3)
+- Full source code access
+- No licensing fees
+- Must comply with AGPL v3 requirements
+- All modifications must be publicly shared
+
+### 1.2 Commercial Use Path
+- Requires separate commercial licensing agreement
+- 7.5% gross revenue fee for commercial deployments
+- Additional contractual terms apply
+
+## 2. COMMERCIAL LICENSING TERMS
+
+### 2.1 Fee Structure
+- 7.5% of gross revenue from commercial software use
+- Quarterly payment to Skhi Bridges LLC DAO
+- Applies to direct and indirect revenue streams
+
+### 2.2 Reporting Requirements
+- Annual financial report detailing software-related revenue
+- Independent audit verification
+- Transparent and verifiable reporting mechanism
+
+## 3. PROJECT PROTECTION PROVISIONS
+
+### 3.1 Intellectual Property
+- Licensor retains comprehensive intellectual property rights
+- Derivative works must acknowledge original project
+- No unauthorized use of project name or branding
+
+### 3.2 Enforcement Mechanisms
+- Standard legal enforcement procedures
+- Commercial arbitration for dispute resolution
+- Potential injunctive relief for license violations
+
+## 4. ADDITIONAL CONDITIONS
+
+### 4.1 Non-Commercial Exemptions
+Fully exempt from commercial licensing requirements:
+- Academic and scientific research institutions
+- Registered non-profit organizations
+- Individual personal use
+- Open source project integration efforts
+
+### 4.2 Modification Guidelines
+- Core project principles must be preserved
+- No malicious or harmful use permitted
+- Modifications must align with original project intent
+
+## 5. WARRANTY DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY. THE LICENSOR SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM SOFTWARE USE, IMPLEMENTATION, OR MODIFICATION.
+
+## 6. COMPLIANCE AND CONTACT
+
+For licensing inquiries, commercial agreements, or compliance questions:
+
+**Skhi Bridges LLC DAO**
+- Email: licensing@skhibridges.com
+- Web: https://skhibridges.com
+
+## 7. SIGNATURES
+
+Contact Information
+For project details, compliance requirements, or to submit the Liberation Fee, contact:
+Skhi Bridges LLC DAO
+Email: skhibridges@skhibridges.com
+
+Full GNU Affero General Public License, Version 3
+Below is the unmodified text of the GNU Affero General Public License, Version 3, as published by the Free Software Foundation. This text is incorporated by reference into this document.
 
 ---
-
-Zero Trust Computer - Daemonless OS
-
-By open-sourcing this framework under AGPLv3+, we commit to:
-1. Permanent strong copyleft protection against proprietary enclosure
-2. Network service users' right to source code (AGPL "remote interaction" clause)
-3. Community-driven evolution through version 3 "or any later version" provision
-
-Our mission: To enable a planetary exorcism of computer daemons through radical
-transparency in computing systems. This license ensures all derivatives remain
-free for humanity's collective wellbeing.
-
-For project details and compliance requirements, contact skhibridges@skhibridges.com
-
----
-
 
 GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
@@ -369,69 +426,17 @@ documented (and with an implementation available to the public in
 source code form), and must require no special password or key for
 unpacking, reading or copying.
 
-  7. Additional Terms.
+  7. Additional Terms - Elimination of Proprietary Daemons Clause
 
-  "Additional permissions" are terms that supplement the terms of this
-License by making exceptions from one or more of its conditions.
-Additional permissions that are applicable to the entire Program shall
-be treated as though they were included in this License, to the extent
-that they are valid under applicable law.  If additional permissions
-apply only to part of the Program, that part may be used separately
-under those permissions, but the entire Program remains governed by
-this License without regard to the additional permissions.
+  a) All derivative works must maintain a daemonless architecture
+  b) Hardware interactions must use open source implementations
+  c) Cryptographic verification mechanisms must be provided
+  d) No background processes or unsupervised services permitted
+  e) Closed-source hardware drivers or kernel modules prohibited
+  f) Any attempt to add background processes or unsupervised services
+     constitutes license violation
+  g) Compliance requires elimination of all non-transparent execution paths
 
-  When you convey a copy of a covered work, you may at your option
-remove any additional permissions from that copy, or from any part of
-it.  (Additional permissions may be written to require their own
-removal in certain cases when you modify the work.)  You may place
-additional permissions on material, added by you to a covered work,
-for which you have or can give appropriate copyright permission.
-
-  Notwithstanding any other provision of this License, for material you
-add to a covered work, you may (if authorized by the copyright holders of
-that material) supplement the terms of this License with terms:
-
-    a) Disclaiming warranty or limiting liability differently from the
-    terms of sections 15 and 16 of this License; or
-
-    b) Requiring preservation of specified reasonable legal notices or
-    author attributions in that material or in the Appropriate Legal
-    Notices displayed by works containing it; or
-
-    c) Prohibiting misrepresentation of the origin of that material, or
-    requiring that modified versions of such material be marked in
-    reasonable ways as different from the original version; or
-
-    d) Limiting the use for publicity purposes of names of licensors or
-    authors of the material; or
-
-    e) Declining to grant rights under trademark law for use of some
-    trade names, trademarks, or service marks; or
-
-    f) Requiring indemnification of licensors and authors of that
-    material by anyone who conveys the material (or modified versions of
-    it) with contractual assumptions of liability to the recipient, for
-    any liability that these contractual assumptions directly impose on
-    those licensors and authors.
-
-  All other non-permissive additional terms are considered "further
-restrictions" within the meaning of section 10.  If the Program as you
-received it, or any part of it, contains a notice stating that it is
-governed by this License along with a term that is a further
-restriction, you may remove that term.  If a license document contains
-a further restriction but permits relicensing or conveying under this
-License, you may add to a covered work material governed by the terms
-of that license document, provided that the further restriction does
-not survive such relicensing or conveying.
-
-  If you add terms to a covered work in accord with this section, you
-must place, in the relevant source files, a statement of the
-additional terms that apply to those files, or a notice indicating
-where to find the applicable terms.
-
-  Additional terms, permissive or non-permissive, may be stated in the
-form of a separately written license, or stated as exceptions;
-the above requirements apply either way.
 
   8. Termination.
 
@@ -496,6 +501,7 @@ rights granted under this License, and you may not initiate litigation
 (including a cross-claim or counterclaim in a lawsuit) alleging that
 any patent claim is infringed by making, using, selling, offering for
 sale, or importing the Program or any portion of it.
+
 
   11. Patents.
 
@@ -658,5 +664,3 @@ Program, unless a warranty or assumption of liability accompanies a
 copy of the Program in return for a fee.
 
                      END OF TERMS AND CONDITIONS
-
-
