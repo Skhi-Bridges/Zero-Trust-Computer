@@ -1,5 +1,7 @@
 White Paper: Zero Trust Image 
-Quantum Cryptographic Immutability for Secure Build Image Distribution
+
+⏳ Quantum Cryptographic Immutability for Secure Build Image Distribution
+
 🎯 Abstract
 This paper introduces Zero Trust Image (ZTI), a secure method for distributing build images using post-quantum cryptographic primitives like CRYSTALS-Kyber (for encryption) and CRYSTALS-Dilithium (for signing). ZTI ensures that build images are cryptographically immutable, tamper-proof, and verifiable at every stage of transfer. This is a critical component of a larger Cryptographic Single-Instance Computing (CSIC) framework, enabling secure, daemonless, and immutable system execution.
 
