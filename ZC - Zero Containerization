@@ -6,7 +6,7 @@
 ## 🌟 Abstract  
 The software industry stands at an inflection point. Containerization, once revolutionary, now faces critical limitations in security, performance, and sustainability. **Zero Containerization** reimagines software deployment by synthesizing three pillars:  
 1. **Native Rust binaries** for memory-safe, dependency-free execution.  
-2. **Nix-based deterministic environments** for hermetic builds and reproducibility.  
+2. **Nix-based deterministic sandbox environments** for hermetic builds and reproducibility.  
 3. **Zero Trust Architecture** enforced through cryptographic proofs and decentralized persistence.  
 
 This paradigm eliminates container runtimes, daemons, and opaque dependencies while enabling sovereign control over compute environments. We present a technical blueprint for integrating Zero Containerization with blockchain infrastructure (Polkadot/Substrate), decentralized storage (Arweave), and privacy-preserving tools (ProtonDrive).  
