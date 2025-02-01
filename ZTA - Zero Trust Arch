@@ -120,13 +120,13 @@ contract Validator {
 **Defense Systems**
 - 🛡️ MILS separation via binary instances
 
-### 🏆 Comparative Advantages
+### 🏆 Comparative Advantage
 
-| Aspect | WASM | ZTC Model |
-|--------|------|-----------|
-| 🧠 Memory Safety | Sandboxed | Hardware-enforced |
-| 🌐 I/O Surface | Host APIs | Direct MMIO |
-| ⏱️ Cold Start Latency | 50-100ms | <1ms (Bare Metal) |
+     | Aspect             | WASM        | ZTC Model |
+|-------------------------|-------------|--------------|
+| 🧠 Memory Safety       | Sandboxed    | Hardware-enforced |
+| 🌐 I/O Surface         | Host APIs    | Direct MMIO |
+| ⏱️ Cold Start Latency  | 50-100ms     | <1ms (Bare Metal) |
 
 ### 🎯 Conclusion
 
