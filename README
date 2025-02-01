@@ -1,9 +1,11 @@
-# 🔐 **ZERO TRUST COMPUTER**  
+# 🔐 **ZERO TRUST COMPUTER** 
+ 
 # **The Daemon-Free Revolution in Computing**  
 
 ---
 
 ## **An Act of Technological Sovereignty**  
+
 *Reclaiming computation through radical transparency, verifiability, and trustlessness.*  
 
 ---
@@ -21,21 +23,27 @@
 Modern computing stands upon a foundation of shadows—daemons, background services, and opaque binaries that operate without user consent or oversight. These hidden layers have introduced profound vulnerabilities into our technological infrastructure:  
 
 ### **SECURITY VULNERABILITIES**  
+
 The prevalence of hidden processes has created numerous attack vectors:  
+
 - 🎯 **Privilege escalation exploits** that leverage daemon permissions  
 - 🧩 **Supply-chain attacks** targeting background services  
 - 🚫 **Unverified code execution** through opaque binaries  
 - ⚠️ **Zero-day vulnerabilities** in undocumented processes  
 
 ### **TRUST DEFICIT**  
+
 Users face an unprecedented crisis of verification:  
+
 - 🕵️‍♂️ **No way to audit running processes**  
 - 🔍 **Impossible to verify system state**  
 - 🚨 **Hidden operations occurring without consent**  
 - 📦 **Black-box computation with unknown consequences**  
 
 ### **RESOURCE ABUSE**  
+
 System resources fall prey to hidden consumption:  
+
 - 🧠 **Memory leaks** from background processes  
 - ⚡ **CPU cycles stolen** by unauthorized computation  
 - 🌐 **Network bandwidth consumed** by hidden services  
@@ -52,21 +60,27 @@ The **Zero Trust Computer (ZTC)** emerges as the only viable solution to this cr
 ZTC transcends the traditional concept of an operating system—it represents a **philosophical and technical revolution**. By eliminating daemons, hidden processes, and opaque dependencies, ZTC enforces a new standard of computing:  
 
 ## **RADICAL TRANSPARENCY**  
+
 Every aspect of system operation becomes fully auditable:  
+
 - 🔐 **Cryptographic verification** of all instructions  
 - 👀 **Complete process visibility**  
 - 📜 **Auditable execution paths**  
 - ✅ **Verifiable system state**  
 
 ## **ZERO TRUST ARCHITECTURE**  
+
 Security through absolute verification:  
+
 - 🚫 **No implicit trust** in any process  
 - 🔍 **Explicit verification** of all operations  
 - 🔐 **Cryptographic proof of intent**  
 - 🔄 **Continuous state validation**  
 
 ## **SOVEREIGN CONTROL**  
+
 Users retain complete authority over their systems:  
+
 - 🖥️ **Full ownership of hardware operations**  
 - 🛠️ **Complete control over software execution**  
 - 🛡️ **Verifiable system boundaries**  
@@ -81,56 +95,72 @@ This is computing as it was meant to be: **trustless, transparent, and tamper-pr
 ZTC is built on **four foundational pillars**, each enforced at both hardware and software levels:  
 
 ## **1. NO HIDDEN STATE**  
+
 ### **Enforcement**: TPM-backed memory attestation  
+
 - 🧠 **Hardware-level verification** of memory states  
 - 🔄 **Continuous monitoring** of system memory  
 - 🔐 **Cryptographic validation** of state changes  
 - 📜 **Immutable audit logs** of memory operations  
 
 ### **Mechanism**  
+
 All memory states undergo cryptographic hashing and verification before execution:  
+
 - ⏱️ **Real-time memory state validation**  
 - 🔐 **Cryptographic proof of memory integrity**  
 - 🔗 **Chain of custody** for all state changes  
 - 📜 **Verifiable memory operation logs**  
 
 ## **2. ZERO AMBIENT AUTHORITY**  
+
 ### **Enforcement**: Quantum-resistant capability tokens  
+
 - 🔑 **Explicit permission management**  
 - 🔐 **Cryptographic access control**  
 - 🚫 **Revocable capability system**  
 - 🎯 **Fine-grained authorization**  
 
 ### **Mechanism**  
+
 All processes require explicit, revocable permissions:  
+
 - 🔑 **Capability-based security model**  
 - ⚛️ **Quantum-resistant token system**  
 - 🔄 **Dynamic permission management**  
 - 🔐 **Cryptographic capability verification**  
 
 ## **3. NON-BYZANTINE COMMUNICATION**  
+
 ### **Enforcement**: Graphene-Chain Protocol  
+
 - 📨 **Verified process communication**  
 - 📜 **Immutable message logs**  
 - 🛡️ **Byzantine fault tolerance**  
 - 🤝 **Consensus-based validation**  
 
-### **Mechanism**  
+### **Mechanism**
+  
 All inter-process communication undergoes Merkle proof verification:  
+
 - 🔐 **Cryptographic message validation**  
 - 📜 **Immutable communication logs**  
 - 🤝 **Consensus-based message ordering**  
 - ✅ **Verifiable delivery guarantees**  
 
-## **4. CONTINUOUS PROOF-OF-INTENT**  
+## **4. CONTINUOUS PROOF-OF-INTENT** 
+ 
 ### **Enforcement**: SNARK-based action justifications  
+
 - 🔐 **Zero-knowledge proof system**  
 - 🔄 **Continuous intent verification**  
 - 🔐 **Cryptographic action validation**  
 - 📜 **Immutable proof chains**  
 
 ### **Mechanism**  
+
 Every instruction requires zero-knowledge proof of legitimacy:  
+
 - ⏱️ **Real-time intent verification**  
 - 🔐 **Cryptographic proof generation**  
 - 🔗 **Continuous validation chain**  
@@ -160,27 +190,35 @@ This foundational principle ensures that **no computation occurs without verifia
 ZTC is licensed under **GNU AGPLv3+** with additional clauses to preserve its core principles:  
 
 ## **ELIMINATION OF PROPRIETARY DAEMONS CLAUSE**  
+
 All derivative works must maintain:  
+
 - 🚫 **Complete daemonless architecture**  
 - 🔐 **Cryptographic proof of integrity**  
 - 🔍 **Verifiable execution paths**  
 - 👀 **Transparent operation**  
 
 ## **WHY AGPLv3+?**  
+
 ### **Corporate Vampirism Prevention**  
+
 - 🤝 **Mandatory sharing of security modifications**  
 - 🛡️ **Protection against proprietary forks**  
 - 🌐 **Community-driven development**  
 - 🔍 **Open security auditing**  
 
 ### **Networked Transparency**  
+
 - 🔗 **AGPL §13 enforcement**  
+
 - 👤 **Service operator accountability**  
 - 🌐 **Network operation visibility**  
 - 🛡️ **User freedom protection**  
 
 ### **Temporal Protection**  
+
 - ⏳ **Future-proofing through version flexibility**  
+
 - 🔄 **Continuous improvement pathway**  
 - 🌱 **Community adaptation ability**  
 - 🛡️ **Long-term viability**  
@@ -210,6 +248,7 @@ To maintain system integrity, all contributions follow a strict protocol:
 ZTC implements proactive compliance with global standards:  
 
 ## **REGULATORY FRAMEWORKS**  
+
 - 🌐 **Wassenaar Arrangement**  
 - 🔐 **GDPR Data Protection**  
 - 🛡️ **CCPA Privacy Rights**  
@@ -218,6 +257,7 @@ ZTC implements proactive compliance with global standards:
 - 🛡️ **NIST SP 800-207**  
 
 ## **IMPLEMENTATION GUARANTEES**  
+
 - 🔐 **Cryptographic verification**  
 - 🛡️ **Privacy protection**  
 - 👤 **User data control**  
@@ -230,12 +270,15 @@ ZTC implements proactive compliance with global standards:
 
 In a world increasingly dominated by AI and opaque systems, ZTC stands as the **immunological response to computational malignancy**. Every instruction, process, and byte becomes fully accountable to its users.  
 
-## **SECURE COMMUNICATION**  
+## **SECURE COMMUNICATION** 
+ 
 For encrypted contact: **SkhiBridges.pm.ne**  
 Author: Robert Patrick Campbell aka Skhi Bridges
 
 ## **LEGAL NOTICE**  
+
 By engaging with this software, you accept:  
+
 1. ⚖️ **Full operational responsibility**  
 2. 🔐 **Compliance requirements**  
 3. ⚖️ **Legal framework adherence**  
@@ -250,10 +293,13 @@ By engaging with this software, you accept:
 ---
 
 **RECLAIM YOUR COMPUTATION**  
+
 **JOIN THE ZERO TRUST REVOLUTION**  
 
 ### **Legal Notice**  
+
 By interacting with this software, you irrevocably agree to:  
+
 1. ⚖️ **Assume full liability for all consequences**  
 2. 🚫 **Forfeit claims against authors/contributors**  
 3. 🔐 **Comply with all stated legal and technical frameworks**  
