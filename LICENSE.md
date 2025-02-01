@@ -81,7 +81,7 @@ THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY. THE LICENSOR SHALL NOT BE
 For licensing inquiries, commercial agreements, or compliance questions:
 
 **Skhi Bridges LLC DAO**
-- Email: licensing@skhibridges.com
+- Email: SkhiBridges.pm.me
 - Web: https://skhibridges.com
 
 ## 7. SIGNATURES
