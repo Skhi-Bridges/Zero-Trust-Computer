@@ -8,7 +8,9 @@ Your support fuels our mission for a **daemonless future**. Together, we can cre
 
 ### 🔗 **Support Now**
 Bitcoin: 3FGkxFX9ErmE6xEzNY38DzAWaRSNwcCEiJ 
+
 Ethereum: 0x0f5c2aBf4c5ED3698d15Ca6a60258BF82d2c70E3 
+
 USDC: 0x7FAc6d3E3111cCBfDE4409416EC6bd8842d8e561
 
 Note: This address only accepts mainnet ETH sent from an Ethereum wallet. Do not send ETH from other networks, any layer-2, side chains, ZK-rollups, wrapped ETH, etc. or it will result in a loss of funds.
