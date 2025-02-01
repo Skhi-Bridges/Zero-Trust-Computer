@@ -9,7 +9,7 @@ We present a novel software distribution model combining Rust's memory safety, c
 ### 🛡️ Threat Model
 
 Assumes Compromise of:
-- 🖥️ Host OS kernel (except hypervisor layer)
+- 🖥️ Host OS kernel 
 - 🌐 Network persistence
 - 💾 Filesystem persistence
 
@@ -162,4 +162,4 @@ Each step is cryptographically secured.
 
 For encrypted communication: 
 - 📧 SkhiBridges.pm.me
-- 👤 Author: Robert Patrick Campbell
+- 👤 Founder: Robert Patrick Campbell
