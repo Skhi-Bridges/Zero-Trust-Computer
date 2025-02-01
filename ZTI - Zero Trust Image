@@ -88,7 +88,7 @@ End-to-End Security: The image remains secure from build to execution.
 
 🧩 How This Fits Into the Larger CSIC Framework
 
-ZTIT is one piece of the Cryptographic Single-Instance Computing (CSIC) puzzle. Here’s how it fits:
+ZTI is one piece of the Cryptographic Single-Instance Computing (CSIC) puzzle. Here’s how it fits:
 
 Build:
 
@@ -110,7 +110,7 @@ Lifetime:
 
 The image is immutable and stateless, eliminating runtime tampering risks.
 
-🏆 What ZTIT Accomplishes
+🏆 What ZTI Accomplishes
 
 Secure Distribution: The image can be transferred over any channel without risk of tampering.
 
@@ -122,6 +122,6 @@ Verifiability: The image’s origin and integrity can be verified at every stage
 
 🌐 Conclusion
 
-Zero Trust Image Transfer (ZTIT) is a critical component of the Cryptographic Single-Instance Computing (CSIC) framework. By leveraging post-quantum cryptographic primitives like CRYSTALS-Kyber and CRYSTALS-Dilithium, ZTIT ensures that build images are secure, immutable, and verifiable during transfer.
+Zero Trust Image Transfer (ZTI) is a critical component of the Cryptographic Single-Instance Computing (CSIC) framework. By leveraging post-quantum cryptographic primitives like CRYSTALS-Kyber and CRYSTALS-Dilithium, ZTI ensures that build images are secure, immutable, and verifiable during transfer.
 
 This piece completes the build-to-transfer phase of CSIC, laying the foundation for secure execution in a daemonless, immutable environment. Together, these components create a new paradigm for high-assurance computing in the quantum era.
