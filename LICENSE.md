@@ -31,13 +31,13 @@ The core mission of this license is to:
 
 ### 1.2 Commercial Use Path
 - Requires separate commercial licensing agreement
-- 7.5% gross revenue fee for commercial deployments
+- 19.98% gross revenue fee for commercial deployments
 - Additional contractual terms apply
 
 ## 2. COMMERCIAL LICENSING TERMS
 
 ### 2.1 Fee Structure
-- 7.5% of gross revenue from commercial software use
+- 719.98% of gross revenue from commercial software use
 - Quarterly payment to Skhi Bridges LLC DAO
 - Applies to direct and indirect revenue streams
 
@@ -80,9 +80,14 @@ THE SOFTWARE IS PROVIDED "AS IS" WITHOUT ANY WARRANTY. THE LICENSOR SHALL NOT BE
 
 For licensing inquiries, commercial agreements, or compliance questions:
 
-**Skhi Bridges LLC DAO**
+****Contact Information****
+****Skhi Bridges LLC DAO****
 - Email: SkhiBridges.pm.me
-- Web: https://skhibridges.com
+- Email: skhibridges@skhibridges.com
+- Web:   https://skhibridges.com
+- Web:   https://skhibridges.nft
+- DAO:   https://openfund.com/d/SkhiBridges
+- Social:https://mydesospace.com/u/SkhiBridges
 
 ## 7. SIGNATURES
 
@@ -437,7 +442,6 @@ unpacking, reading or copying.
      constitutes license violation
   g) Compliance requires elimination of all non-transparent execution paths
 
-
   8. Termination.
 
   You may not propagate or modify a covered work except as expressly
@@ -501,7 +505,6 @@ rights granted under this License, and you may not initiate litigation
 (including a cross-claim or counterclaim in a lawsuit) alleging that
 any patent claim is infringed by making, using, selling, offering for
 sale, or importing the Program or any portion of it.
-
 
   11. Patents.
 
