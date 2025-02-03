@@ -37,7 +37,7 @@ The core mission of this license is to:
 ## 2. COMMERCIAL LICENSING TERMS
 
 ### 2.1 Fee Structure
-- 719.98% of gross revenue from commercial software use
+- 19.98% of gross revenue from commercial software use
 - Quarterly payment to Skhi Bridges LLC DAO
 - Applies to direct and indirect revenue streams
 
